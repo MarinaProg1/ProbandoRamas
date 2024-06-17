@@ -56,8 +56,8 @@ namespace WindowsFromAdoNet
                     conn.Close();
                 }
                 catch (Exception ex)
-                {
-                    throw new Exception("Hay un error en la base de Datos" + ex.Message);
+            
+                    throw new Exception("Error" + ex.Message);
                 }
 
             }
@@ -85,7 +85,8 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("un error en )(/&%" + ex.Message);
+                    throw new Exception("Error" + ex.Message);
+
                 }
 
             }
