@@ -1,0 +1,11 @@
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\bin\Debug\WindowsFromAdoNet.exe.config
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\bin\Debug\WindowsFromAdoNet.exe
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\bin\Debug\WindowsFromAdoNet.pdb
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.Form1.resources
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.Properties.Resources.resources
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.csproj.GenerateResource.cache
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.exe
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.pdb
+C:\Users\marin\source\repos\WindowsForm\WindowsFromAdoNet\obj\Debug\WindowsFromAdoNet.Form2.resources
