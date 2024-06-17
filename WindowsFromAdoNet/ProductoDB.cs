@@ -57,7 +57,7 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Error muy grande" + ex.Message);
+                    throw new Exception("Hay un error en la base de Datos" + ex.Message);
                 }
 
             }
@@ -85,7 +85,7 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Error muy grande" + ex.Message);
+                    throw new Exception("Hay un error en la base de Datos" + ex.Message);
                 }
 
             }
