@@ -57,7 +57,7 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Hay un error en la Dase de datos" + ex.Message);
+                    throw new Exception("Error" + ex.Message);
                 }
 
             }
@@ -85,7 +85,7 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Hay un error en la Dase de datos" + ex.Message);
+                    throw new Exception("Error" + ex.Message);
                 }
 
             }
