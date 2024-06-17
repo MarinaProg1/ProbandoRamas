@@ -57,7 +57,7 @@ namespace WindowsFromAdoNet
                 }
                 catch (Exception ex)
                 {
-                    throw new Exception("Error" + ex.Message);
+                    throw new Exception("Error muy grande" + ex.Message);
                 }
 
             }
