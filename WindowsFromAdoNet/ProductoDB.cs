@@ -56,7 +56,7 @@ namespace WindowsFromAdoNet
                     conn.Close();
                 }
                 catch (Exception ex)
-                {
+            
                     throw new Exception("Error" + ex.Message);
                 }
 
@@ -86,6 +86,7 @@ namespace WindowsFromAdoNet
                 catch (Exception ex)
                 {
                     throw new Exception("Error" + ex.Message);
+
                 }
 
             }
